@@ -1,11 +1,7 @@
 # Building a Real-Time Chat Application with Python and Flet
-### Hashzap – Your Python-Powered Chat Platform
-
-This repository houses a real-time chat application built using Python and the Flet framework. The project, developed during the "Python Journey" crash course offered by Hashtag, showcases how to create interactive web applications with intuitive user interfaces using Python.
-
 ## Project Overview
 
-Hashzap is a simple yet functional chat application that allows users to connect and communicate in real-time. The application features a user-friendly interface built with Flet, a framework that enables the creation of web-based UIs using Python without the need for extensive JavaScript or HTML knowledge.
+This repository houses a real-time chat application built using Python and the Flet framework. This chat application is a simple yet functional, that allows users to connect and communicate in real-time. The application features a user-friendly interface built with Flet, a framework that enables the creation of web-based UIs using Python without the need for extensive JavaScript or HTML knowledge.
 
 ## Application Features
 
